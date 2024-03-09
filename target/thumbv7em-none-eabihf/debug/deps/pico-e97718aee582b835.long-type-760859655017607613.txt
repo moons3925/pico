@@ -1,0 +1,1 @@
+&mut UartPeripheral<rp2040_hal::uart::Enabled, UART0, (rp2040_hal::gpio::Pin<Gpio0, FunctionUart, PullNone>, rp2040_hal::gpio::Pin<Gpio1, FunctionUart, PullNone>)>

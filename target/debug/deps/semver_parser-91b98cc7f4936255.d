@@ -1,0 +1,11 @@
+C:\Users\m3925\rp_pico\pico\target\debug\deps\libsemver_parser-91b98cc7f4936255.rmeta: C:\Users\m3925\.cargo\registry\src\index.crates.io-6f17d22bba15001f\semver-parser-0.7.0\src\lib.rs C:\Users\m3925\.cargo\registry\src\index.crates.io-6f17d22bba15001f\semver-parser-0.7.0\src\version.rs C:\Users\m3925\.cargo\registry\src\index.crates.io-6f17d22bba15001f\semver-parser-0.7.0\src\range.rs C:\Users\m3925\.cargo\registry\src\index.crates.io-6f17d22bba15001f\semver-parser-0.7.0\src\common.rs C:\Users\m3925\.cargo\registry\src\index.crates.io-6f17d22bba15001f\semver-parser-0.7.0\src\recognize.rs
+
+C:\Users\m3925\rp_pico\pico\target\debug\deps\libsemver_parser-91b98cc7f4936255.rlib: C:\Users\m3925\.cargo\registry\src\index.crates.io-6f17d22bba15001f\semver-parser-0.7.0\src\lib.rs C:\Users\m3925\.cargo\registry\src\index.crates.io-6f17d22bba15001f\semver-parser-0.7.0\src\version.rs C:\Users\m3925\.cargo\registry\src\index.crates.io-6f17d22bba15001f\semver-parser-0.7.0\src\range.rs C:\Users\m3925\.cargo\registry\src\index.crates.io-6f17d22bba15001f\semver-parser-0.7.0\src\common.rs C:\Users\m3925\.cargo\registry\src\index.crates.io-6f17d22bba15001f\semver-parser-0.7.0\src\recognize.rs
+
+C:\Users\m3925\rp_pico\pico\target\debug\deps\semver_parser-91b98cc7f4936255.d: C:\Users\m3925\.cargo\registry\src\index.crates.io-6f17d22bba15001f\semver-parser-0.7.0\src\lib.rs C:\Users\m3925\.cargo\registry\src\index.crates.io-6f17d22bba15001f\semver-parser-0.7.0\src\version.rs C:\Users\m3925\.cargo\registry\src\index.crates.io-6f17d22bba15001f\semver-parser-0.7.0\src\range.rs C:\Users\m3925\.cargo\registry\src\index.crates.io-6f17d22bba15001f\semver-parser-0.7.0\src\common.rs C:\Users\m3925\.cargo\registry\src\index.crates.io-6f17d22bba15001f\semver-parser-0.7.0\src\recognize.rs
+
+C:\Users\m3925\.cargo\registry\src\index.crates.io-6f17d22bba15001f\semver-parser-0.7.0\src\lib.rs:
+C:\Users\m3925\.cargo\registry\src\index.crates.io-6f17d22bba15001f\semver-parser-0.7.0\src\version.rs:
+C:\Users\m3925\.cargo\registry\src\index.crates.io-6f17d22bba15001f\semver-parser-0.7.0\src\range.rs:
+C:\Users\m3925\.cargo\registry\src\index.crates.io-6f17d22bba15001f\semver-parser-0.7.0\src\common.rs:
+C:\Users\m3925\.cargo\registry\src\index.crates.io-6f17d22bba15001f\semver-parser-0.7.0\src\recognize.rs:

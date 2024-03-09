@@ -1,0 +1,35 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "cortex-debug",
+            "request": "launch",
+            "name": "Debug (OpenOCD)",
+            "servertype": "openocd",
+            "cwd": "${workspaceRoot}",
+            "preLaunchTask": "Cargo Build (debug)",
+            "runToEntryPoint": "main",
+            "executable": "./target/thumbv6m-none-eabi/debug/pico",
+            "showDevDebugOutput": "raw",
+            "device": "rp2040",
+            "configFiles": [
+                "interface/cmsis-dap.cfg",
+                "target/rp2040.cfg"
+            ],
+            "svdFile": "${workspaceRoot}/.vscode/rp2040.svd",
+            "swoConfig": {
+                "enabled": true,
+                "cpuFrequency": 8000000,
+                "swoFrequency": 2000000,
+                "source": "probe",
+                "decoders": [
+                    {
+                        "type": "console",
+                        "label": "ITM",
+                        "port": 0
+                    }
+                ]
+            }
+        }
+    ]
+}
